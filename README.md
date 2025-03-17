@@ -2,6 +2,7 @@
 Projeto Ebac Github
 
 O qué é?
+
 Este é um projeto feito para demonstrar algumas funções do Git, a modo de exemplificar.
 
 Tópicos
